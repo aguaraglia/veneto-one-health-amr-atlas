@@ -1,0 +1,11 @@
+site/
+build-backups/
+.build-staging-*/
+tmp/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+node_modules/
+package-lock.json

@@ -1,0 +1,414 @@
+{
+ "aou_padova": {
+  "query": "Azienda Ospedale Università Padova, Via Nicolò Giustiniani, Padova",
+  "status": 200,
+  "results": []
+ },
+ "aoui_verona_bt": {
+  "query": "Ospedale Borgo Trento, Verona",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 74853811,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 8243329315,
+    "lat": "45.4514587",
+    "lon": "10.9853599",
+    "category": "amenity",
+    "type": "taxi",
+    "place_rank": 30,
+    "importance": 7.461738002589482e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Borgo Trento",
+    "display_name": "Ospedale Borgo Trento, Piazzale Aristide Stefani, Pindemonte, Nord-Ovest, Verona, Veneto, 37125, Italia",
+    "address": {
+     "amenity": "Ospedale Borgo Trento",
+     "road": "Piazzale Aristide Stefani",
+     "suburb": "Pindemonte",
+     "city": "Verona",
+     "county": "Verona",
+     "ISO3166-2-lvl6": "IT-VR",
+     "state": "Veneto",
+     "ISO3166-2-lvl4": "IT-34",
+     "postcode": "37125",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.4514087",
+     "45.4515087",
+     "10.9853099",
+     "10.9854099"
+    ]
+   }
+  ]
+ },
+ "angelo_mestre": {
+  "query": "Ospedale dell'Angelo, Mestre, Venezia",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 78550189,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 114921444,
+    "lat": "45.5132138",
+    "lon": "12.2227042",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.18929199030239088,
+    "addresstype": "amenity",
+    "name": "Ospedale dell'Angelo",
+    "display_name": "Ospedale dell'Angelo, Via Don Luigi Giussani, Cipressina, Chirignago-Zelarino, Zelarino, Venezia, Veneto, 30170, Italia",
+    "address": {
+     "amenity": "Ospedale dell'Angelo",
+     "road": "Via Don Luigi Giussani",
+     "suburb": "Cipressina",
+     "village": "Zelarino",
+     "city": "Venezia",
+     "county": "Venezia",
+     "ISO3166-2-lvl6": "IT-VE",
+     "state": "Veneto",
+     "ISO3166-2-lvl4": "IT-34",
+     "postcode": "30170",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.5100456",
+     "45.5163732",
+     "12.2194958",
+     "12.2260762"
+    ]
+   },
+   {
+    "place_id": 78539798,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1095907031,
+    "lat": "45.5134240",
+    "lon": "12.2227652",
+    "category": "building",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.18929199030239088,
+    "addresstype": "building",
+    "name": "Ospedale dell'Angelo",
+    "display_name": "Ospedale dell'Angelo, C, Scaramuzza Sud, Chirignago-Zelarino, Zelarino, Venezia, Veneto, 30174, Italia",
+    "address": {
+     "building": "Ospedale dell'Angelo",
+     "road": "C",
+     "hamlet": "Scaramuzza Sud",
+     "suburb": "Chirignago-Zelarino",
+     "village": "Zelarino",
+     "city": "Venezia",
+     "county": "Venezia",
+     "ISO3166-2-lvl6": "IT-VE",
+     "state": "Veneto",
+     "ISO3166-2-lvl4": "IT-34",
+     "postcode": "30174",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.5118941",
+     "45.5149253",
+     "12.2206400",
+     "12.2254031"
+    ]
+   },
+   {
+    "place_id": 78513336,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 6222575649,
+    "lat": "45.5129840",
+    "lon": "12.2243634",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 8.110246433199081e-05,
+    "addresstype": "highway",
+    "name": "Ospedale dell'Angelo",
+    "display_name": "Ospedale dell'Angelo, Sottopasso ferroviario, Cipressina, Chirignago-Zelarino, Zelarino, Venezia, Veneto, 30170, Italia",
+    "address": {
+     "highway": "Ospedale dell'Angelo",
+     "road": "Sottopasso ferroviario",
+     "suburb": "Cipressina",
+     "village": "Zelarino",
+     "city": "Venezia",
+     "county": "Venezia",
+     "ISO3166-2-lvl6": "IT-VE",
+     "state": "Veneto",
+     "ISO3166-2-lvl4": "IT-34",
+     "postcode": "30170",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.5129340",
+     "45.5130340",
+     "12.2243134",
+     "12.2244134"
+    ]
+   }
+  ]
+ },
+ "san_bortolo": {
+  "query": "Ospedale San Bortolo, Vicenza",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 74580556,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 138729533,
+    "lat": "45.5575782",
+    "lon": "11.5434513",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.23648094285300414,
+    "addresstype": "amenity",
+    "name": "Ospedale Civile di Vicenza \"San Bortolo\"",
+    "display_name": "Ospedale Civile di Vicenza \"San Bortolo\", Viale Bartolomeo d'Alviano, San Bortolo, Vicenza, Veneto, 36100, Italia",
+    "address": {
+     "amenity": "Ospedale Civile di Vicenza \"San Bortolo\"",
+     "road": "Viale Bartolomeo d'Alviano",
+     "quarter": "San Bortolo",
+     "city": "Vicenza",
+     "county": "Vicenza",
+     "ISO3166-2-lvl6": "IT-VI",
+     "state": "Veneto",
+     "ISO3166-2-lvl4": "IT-34",
+     "postcode": "36100",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.5571186",
+     "45.5580235",
+     "11.5425604",
+     "11.5443746"
+    ]
+   }
+  ]
+ },
+ "ca_foncello": {
+  "query": "Ospedale Ca' Foncello, Treviso",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 78689225,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 12755663548,
+    "lat": "45.6595579",
+    "lon": "12.2594826",
+    "category": "amenity",
+    "type": "bicycle_rental",
+    "place_rank": 30,
+    "importance": 6.829404135190383e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Ca' Foncello",
+    "display_name": "Ospedale Ca' Foncello, Via Cittadella della Salute, Fiera, Treviso, Veneto, 31100, Italia",
+    "address": {
+     "amenity": "Ospedale Ca' Foncello",
+     "road": "Via Cittadella della Salute",
+     "suburb": "Fiera",
+     "city": "Treviso",
+     "county": "Treviso",
+     "ISO3166-2-lvl6": "IT-TV",
+     "state": "Veneto",
+     "ISO3166-2-lvl4": "IT-34",
+     "postcode": "31100",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.6595079",
+     "45.6596079",
+     "12.2594326",
+     "12.2595326"
+    ]
+   }
+  ]
+ },
+ "negrar": {
+  "query": "Ospedale Sacro Cuore Don Calabria, Negrar",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 74838006,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 274976514,
+    "lat": "45.5297611",
+    "lon": "10.9368751",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.2844781372993679,
+    "addresstype": "amenity",
+    "name": "Ospedale Sacro Cuore Don Calabria",
+    "display_name": "Ospedale Sacro Cuore Don Calabria, Piazza Roma, Vigolo, Negrar di Valpolicella, Verona, Veneto, 37024, Italia",
+    "address": {
+     "amenity": "Ospedale Sacro Cuore Don Calabria",
+     "road": "Piazza Roma",
+     "hamlet": "Vigolo",
+     "town": "Negrar di Valpolicella",
+     "city": "Negrar di Valpolicella",
+     "county": "Verona",
+     "ISO3166-2-lvl6": "IT-VR",
+     "state": "Veneto",
+     "ISO3166-2-lvl4": "IT-34",
+     "postcode": "37024",
+     "country": "Italia",
+     "country_code": "it"
+    },
+    "boundingbox": [
+     "45.5283087",
+     "45.5312340",
+     "10.9350257",
+     "10.9397000"
+    ]
+   }
+  ]
+ },
+ "aou_padova_retry": {
+  "query": "Ospedale Giustinianeo, Padova",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 75627831,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "relation",
+    "osm_id": 3509003,
+    "lat": "45.4036585",
+    "lon": "11.8873455",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 7.435645075146132e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Giustinianeo",
+    "display_name": "Ospedale Giustinianeo, Via Ospedale Civile, Forcellini, Padova, Veneto, 35100, Italia",
+    "boundingbox": [
+     "45.4032136",
+     "45.4040795",
+     "11.8857534",
+     "11.8877872"
+    ]
+   }
+  ]
+ },
+ "aou_padova2_retry": {
+  "query": "Azienda Ospedale Università Padova",
+  "status": 200,
+  "results": []
+ },
+ "aoui_verona_bt_retry": {
+  "query": "Ospedale Civile Maggiore, Verona",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 74335983,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "way",
+    "osm_id": 1333244215,
+    "lat": "45.4528634",
+    "lon": "10.9841333",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 0.1570394422394589,
+    "addresstype": "amenity",
+    "name": "Ospedale Civile Maggiore",
+    "display_name": "Ospedale Civile Maggiore, 1, Piazzale Aristide Stefani, Borgo Trento, Nord-Ovest, Verona, Veneto, 37126, Italia",
+    "boundingbox": [
+     "45.4500695",
+     "45.4556791",
+     "10.9792411",
+     "10.9867095"
+    ]
+   }
+  ]
+ },
+ "ca_foncello_retry": {
+  "query": "Ospedale regionale Ca' Foncello, Treviso",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 381696716,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 13752407497,
+    "lat": "45.6583551",
+    "lon": "12.2607160",
+    "category": "amenity",
+    "type": "hospital",
+    "place_rank": 30,
+    "importance": 6.829404135190383e-05,
+    "addresstype": "amenity",
+    "name": "Ospedale Regionale \"Ca'Foncello\"",
+    "display_name": "Ospedale Regionale \"Ca'Foncello\", Via Cittadella della Salute, Fiera, Treviso, Veneto, 31100, Italia",
+    "boundingbox": [
+     "45.6583051",
+     "45.6584051",
+     "12.2606660",
+     "12.2607660"
+    ]
+   }
+  ]
+ },
+ "ca_foncello2_retry": {
+  "query": "ospedale Treviso",
+  "status": 200,
+  "results": [
+   {
+    "place_id": 74651994,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 10082274921,
+    "lat": "45.7969570",
+    "lon": "11.9128505",
+    "category": "place",
+    "type": "neighbourhood",
+    "place_rank": 24,
+    "importance": 0.0800586945906767,
+    "addresstype": "neighbourhood",
+    "name": "Ospedale",
+    "display_name": "Ospedale, Fagarè, Cà Giupponi, Asolo, Fonte, Treviso, Veneto, 31011, Italia",
+    "boundingbox": [
+     "45.7869570",
+     "45.8069570",
+     "11.9028505",
+     "11.9228505"
+    ]
+   },
+   {
+    "place_id": 79119774,
+    "licence": "Data © OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+    "osm_type": "node",
+    "osm_id": 9931336986,
+    "lat": "45.9869512",
+    "lon": "12.3186665",
+    "category": "highway",
+    "type": "bus_stop",
+    "place_rank": 30,
+    "importance": 6.0901045242954414e-05,
+    "addresstype": "highway",
+    "name": "Ospedale",
+    "display_name": "Ospedale, Via Carlo Forlanini, Cèneda, Vittorio Veneto, Treviso, Veneto, 31029, Italia",
+    "boundingbox": [
+     "45.9869012",
+     "45.9870012",
+     "12.3186165",
+     "12.3187165"
+    ]
+   }
+  ]
+ }
+}
