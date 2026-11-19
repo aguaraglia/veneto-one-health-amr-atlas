@@ -1,0 +1,25 @@
+{
+  "schema_version": "1.0",
+  "edition": "ven_amr_atlas",
+  "source_id": "aifa_opendata_2024_veneto_j01",
+  "period": 2024,
+  "geography": "Veneto",
+  "indicator": {
+    "label": "Antibatterici per uso sistemico (ATC J01)",
+    "packs_convenzionata": 3631895,
+    "expenditure_convenzionata_eur": 30423961,
+    "packs_direct_purchase_traceability": 1813872,
+    "expenditure_direct_purchase_traceability_eur": 16512258,
+    "aggregation": "somma dei 12 mesi 2024 e di tutte le classi di rimborsabilita per atc2 = J01"
+  },
+  "limitations": "Confezioni e spesa, non DDD e non resistenza. Il PDF regionale dello stesso anno è escluso perché coperto dal copyright del sito, non dalla licenza open data.",
+  "license": "CC BY 4.0 (AIFA, licenza dei dati aperti: https://www.aifa.gov.it/open-data ; guida CSV)",
+  "source": {
+    "title": "AIFA Open Data - Spesa e consumo relativi al flusso della farmaceutica convenzionata e degli acquisti diretti, anno 2024",
+    "url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+    "landing": "https://www.aifa.gov.it/web/guest/spesa-e-consumo-relativi-al-flusso-della-farmaceutica-convenzionata-e-degli-acquisti-diretti",
+    "acquired_at": "2026-11-19",
+    "sha256": "A7CCD6B30A10FDEC78D4AD53D3DA1B24C0D87130DE54ADBA309462F220F059EB",
+    "filter": "atc2 = J01, regione = VENETO; 12 mesi; CSV letto latin-1, separatore |"
+  }
+}

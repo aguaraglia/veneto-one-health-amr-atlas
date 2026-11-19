@@ -7,9 +7,9 @@
   "brandIcon": "public/brand/veneto-region-mark.svg",
   "language": "it",
   "publisher": "Codex Vitae ETS",
-  "dataStatusLabel": "Letteratura scientifica aggiornata il 19 novembre 2026 (46 studi). Fonti istituzionali: AR-ISS 2024, OsMed Veneto 2024, PPS-3 2022.",
+  "dataStatusLabel": "Letteratura scientifica aggiornata il 19 novembre 2026 (46 studi). Fonti istituzionali: AR-ISS 2024 e AIFA Open Data 2024 (J01, CC BY 4.0).",
   "literaturePlacePhrase": "al Veneto",
-  "publicScopeSummary": "Confini ISTAT 2026 (560 comuni, 7 province e Città metropolitana di Venezia, regione); AR-ISS 2024; OsMed Veneto 2024 (consumi di antibiotici, Tabella 13); PPS-3 2022; 6 ospedali georiferiti; Laguna di Venezia da OpenStreetMap (ODbL); letteratura scientifica veneta del 19 novembre 2026 (46 studi). IZSVe MIC e ReSolVe/ULSS esclusi: nessuna licenza di riuso. Il segnaposto indica il luogo dello studio, non una prevalenza. Le aree vuote indicano nessuna evidenza pubblicata.",
+  "publicScopeSummary": "Confini ISTAT 2026 (560 comuni, 7 province e Città metropolitana di Venezia, regione); AR-ISS 2024; AIFA Open Data 2024 antibatterici J01 (CC BY 4.0); 6 ospedali georiferiti; Laguna di Venezia da OpenStreetMap (ODbL); letteratura scientifica veneta del 19 novembre 2026 (46 studi). Il PDF regionale sui consumi, la sintesi di prevalenza puntuale 2022, IZSVe MIC e ReSolVe/ULSS sono esclusi: nessuna licenza di riuso. Il segnaposto indica il luogo dello studio, non una prevalenza. Le aree vuote indicano nessuna evidenza pubblicata.",
   "map": {
     "center": [45.67, 11.85],
     "zoom": 8

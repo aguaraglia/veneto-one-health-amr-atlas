@@ -11,6 +11,16 @@
 - I PDF ULSS non riportano licenza; i dati derivano da ClassyFarm (Ministero della Salute).
 - Esito: nessuna licenza esplicita. ESCLUSO come layer.
 
+## Rapporto OsMed Regione Veneto 2024 (PDF)
+- Pagina: https://www.aifa.gov.it/documents/20142/3610201/Veneto_Osmed_2024.pdf
+- Contenuto valutato: Tabella 13, antibiotici 13,6 DDD/1.000 abitanti/die e 9,7 euro pro capite.
+- Esito: il PDF non ha una licenza di riuso esplicita; è coperto dal copyright del sito AIFA, non dalla licenza open data. ESCLUSO. Il consumo regionale pubblicato nell'atlante è l'estratto J01 di AIFA Open Data 2024 (CC BY 4.0).
+
+## Sintesi PPS-3 Veneto 2022 (SER)
+- Pagina: https://www.ser-veneto.it/public/SintesiPPS3Veneto.pdf
+- Contenuto valutato: 21 presidi, 6.266 pazienti; pazienti non COVID: ICA 8,2%, almeno un antimicrobico 43,7%.
+- Esito: nessuna licenza di riuso esplicita. ESCLUSO per intero. Nessun dato di questa sintesi resta nel sito.
+
 ## Cataloghi open data
 - dati.gov.it (CKAN): 0 dataset per "izsvenezie", "Venezie", "antimicrobico" (2026-11-19).
 - dati.veneto.it: l'endpoint API restituisce HTML, non CKAN; nessun dataset AMR veterinario trovato.
