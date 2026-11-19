@@ -15,10 +15,12 @@ evidenza pubblicata, non resistenza zero. Ogni popup cita lo studio e il DOI
 (o il record PubMed se il DOI non è assegnato) e ricorda che il segnaposto è
 il luogo dello studio, non una prevalenza.
 
-Fonti istituzionali pubbliche: AR-ISS 2024, OsMed Veneto 2024 (Tabella 13) e
-PPS-3 2022. Confini ISTAT 2026 (560 comuni, 7 province, regione). Laguna di
-Venezia © OpenStreetMap contributors, ODbL. Il cruscotto MIC IZSVe e i report
-ReSolVe/ULSS sono esclusi: vedi `metadata/EXCLUDED_SOURCES.md`.
+Fonti istituzionali pubbliche: AR-ISS 2024 e AIFA Open Data 2024
+(antibatterici J01, CC BY 4.0). Confini ISTAT 2026 (560 comuni, 7 province,
+regione). Laguna di Venezia © OpenStreetMap contributors, ODbL. Il PDF
+regionale AIFA sui consumi, la sintesi di prevalenza puntuale 2022, il
+cruscotto MIC IZSVe e i report ReSolVe/ULSS sono esclusi per assenza di
+licenza di riuso: vedi `metadata/EXCLUDED_SOURCES.md`.
 
 Il conteggio in homepage legge `public/data/literature-catalog.json` (46).
 

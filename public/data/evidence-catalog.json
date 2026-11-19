@@ -15,28 +15,17 @@
       "note": "Sei combinazioni patogeno-resistenza da sangue/liquor; copertura regionale 71,6%; nessun downscaling."
     },
     {
-      "id": "aifa_osmed_2024_veneto",
-      "title": "AIFA OsMed 2024 - Regione Veneto",
+      "id": "aifa_opendata_2024_veneto_j01",
+      "title": "AIFA Open Data 2024 - Veneto, antibatterici J01",
       "publisher": "Agenzia Italiana del Farmaco",
       "evidence_type": "human_antimicrobial_use",
       "geography": "Veneto",
       "period": "2024",
-      "source_url": "https://www.aifa.gov.it/documents/20142/3610201/Veneto_Osmed_2024.pdf",
-      "data_file": "public/data/aifa_osmed_2024_veneto.json",
+      "source_url": "https://www.aifa.gov.it/documents/20142/847578/dati2024_04.12.2025.csv",
+      "data_file": "public/data/aifa_opendata_2024_veneto_j01.json",
       "publication_status": "public_approved",
-      "note": "Antibiotici, rapporto regionale Anno 2024, Tabella 13: 13,6 DDD/1.000 abitanti/die, 9,7 euro pro capite. Consumo, non resistenza."
-    },
-    {
-      "id": "regione_veneto_pps3",
-      "title": "PPS-3 2022 - Veneto",
-      "publisher": "Regione del Veneto / SER Veneto",
-      "evidence_type": "healthcare_associated_infections_and_amu",
-      "geography": "Veneto",
-      "period": "2022",
-      "source_url": "https://www.ser-veneto.it/public/SintesiPPS3Veneto.pdf",
-      "data_file": "public/data/pps3_veneto.json",
-      "publication_status": "public_approved",
-      "note": "21 presidi, 6.266 pazienti; pazienti non COVID: ICA 8,2%, almeno un antimicrobico 43,7%."
+      "license": "CC BY 4.0",
+      "note": "Confezioni e spesa J01 in convenzionata (3.631.895 confezioni, 30,42 milioni di euro) e negli acquisti diretti (1.813.872 confezioni, 16,51 milioni di euro). Consumo, non resistenza."
     }
   ]
 }
