@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "edition": "ven_amr_atlas",
+  "source_id": "regione_veneto_pps3",
+  "period": "2022-11/2022-12",
+  "geography": "Veneto",
+  "domain": "healthcare_associated_infections_and_amr",
+  "study": {
+    "hospital_sites": 21,
+    "patients": 6266,
+    "patients_non_covid": 6056,
+    "median_patients_per_site": 208
+  },
+  "healthcare_associated_infections": {
+    "non_covid_patients_with_at_least_one_hai": {
+      "n": 496,
+      "prevalence_percent": 8.2
+    },
+    "hai_total": 547,
+    "highest_area": {
+      "area": "Terapia intensiva",
+      "prevalence_percent": 21.2
+    }
+  },
+  "antimicrobial_use": {
+    "non_covid_patients_receiving_at_least_one": {
+      "n": 2646,
+      "prevalence_percent": 43.7
+    },
+    "total_antimicrobials": 3490,
+    "antimicrobials_per_treated_patient": 1.32
+  },
+  "limitations": "Prevalenza puntuale su 21 presidi partecipanti, non stima regionale ponderata; ICA e uso di antimicrobici, non resistenza.",
+  "source": {
+    "title": "Sintesi PPS-3 Veneto: studio di prevalenza puntuale delle ICA e dell'uso di antibiotici negli ospedali per acuti, 2022",
+    "url": "https://www.ser-veneto.it/public/SintesiPPS3Veneto.pdf",
+    "acquired_at": "2026-11-19",
+    "sha256": "0DC3FACD17008F2E9FA90792E1DF49397E897EBD73995B2FF162445D38CDF6BF"
+  }
+}
